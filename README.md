@@ -4,6 +4,6 @@ Hi, I'm Lucy! 👋
 
 🧠 I'm currently learning Javascript, PHP and Ruby
 <pre>
-📫 How to reach me - Insta: @lucy.pulova          Fb: Lucy Pulova           In: https://www.linkedin.com/in/lucy-pulova-346292228/ <pre>
+📫 How to reach me - Insta: @lucy.pulova          Fb: Lucy Pulova           In: https://www.linkedin.com/in/lucy-pulova-346292228/ </pre>
 
 🛠 Skills - Javascript, HTML, CSS, C++, C#,   Adobe Creative Cloud and CorelDRAW Graphic Suite
