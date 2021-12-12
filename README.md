@@ -6,4 +6,4 @@ Hi, I'm Lucy! 👋
 
 📫 How to reach me - Insta: @lucy.pulova
 
-🛠 Skills - Javascript, HTML, CSS, C++, C# Adobe Creative Cloud and CorelDRAW Graphic Suite
+🛠 Skills - Javascript, HTML, CSS, C++, C#,   Adobe Creative Cloud and CorelDRAW Graphic Suite
