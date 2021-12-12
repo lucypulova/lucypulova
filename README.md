@@ -4,6 +4,6 @@ Hi, I'm Lucy! 👋
 
 🧠 I'm currently learning Javascript
 
-📫 How to reach me - Insta: @lucy.pulova; Email: lyusipulova@gmail.com
+📫 How to reach me - Insta: @lucy.pulova
 
 🛠 Skills - Javascript, HTML, CSS, C++, C# Adobe Creative Cloud and CorelDRAW Graphic Suite
