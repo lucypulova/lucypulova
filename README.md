@@ -13,7 +13,6 @@ I am Computer Science student. I am interested in developing (open source) softw
 📫 How to reach me 
 
 Insta: @lucy.pulova;
-
 Email: lyusipulova@gmail.com
 
 
